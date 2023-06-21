@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/3Lives.mp3-6fd06251e0ad737455a26e928dd41be2.mp3str"
+
+[deps]
+
+source_file="res://art/music/3Lives.mp3"
+dest_files=[ "res://.import/3Lives.mp3-6fd06251e0ad737455a26e928dd41be2.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

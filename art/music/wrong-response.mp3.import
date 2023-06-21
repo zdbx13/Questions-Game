@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/wrong-response.mp3-1b5c872d7fc0e396984256a3d9d1822e.mp3str"
+
+[deps]
+
+source_file="res://art/music/wrong-response.mp3"
+dest_files=[ "res://.import/wrong-response.mp3-1b5c872d7fc0e396984256a3d9d1822e.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
