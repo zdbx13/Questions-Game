@@ -1,11 +1,3 @@
-"""
-File: Score.gd
-Description: This file show the score
-Author: Martí Llurba
-Date: 10/06/2023
-Version: 1.3
-"""
-
 extends CanvasLayer
 
 
