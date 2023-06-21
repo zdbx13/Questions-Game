@@ -1,11 +1,3 @@
-"""
-File: Hud.gd
-Description: This file manages the screen message, lives, and score
-Author: Martí Llurba
-Date: 10/05/2023
-Version: 1.3
-"""
-
 extends CanvasLayer
 
 # Send the signal to call them in an other file
