@@ -1,11 +1,3 @@
-"""
-File: Main.gd
-Description: This file manages which shows the screen
-Author: Martí Llurba
-Date: 10/05/2023
-Version: 1.3
-"""
-
 extends Node
 
 
