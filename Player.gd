@@ -1,11 +1,3 @@
-"""
-File: Player.gd
-Description: This file manages the player
-Author: Martí Llurba
-Date: 10/05/2023
-Version: 1.1
-"""
-
 extends Area2D
 
 # Send the signal to call them in an other file
