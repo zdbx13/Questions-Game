@@ -1,11 +1,3 @@
-"""
-File: virus.gd
-Description: This file manages the virus
-Author: Martí Llurba
-Date: 10/05/2023
-Version: 1.0
-"""
-
 extends RigidBody2D
 
 # Export max and min speed variable
