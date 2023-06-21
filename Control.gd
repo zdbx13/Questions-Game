@@ -1,11 +1,3 @@
-"""
-File: Control.gd
-Description: This file control all the questions and responce options
-Author: Martí Llurba
-Date: 10/05/2023
-Version: 1.3
-"""
-
 extends Control
 
 # Send the signals to call them in an other file
